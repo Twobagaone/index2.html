@@ -7,3 +7,4 @@
 <p style="font-size: 40px"><em>Criada em 2022, está cursando o Novo Ensino Médio.</em></p>
 
 <p> A turma é um exemplo de comunicação.</p> 
+
